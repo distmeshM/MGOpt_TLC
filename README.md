@@ -18,16 +18,15 @@ This repository contains the implementation of **MGOpt-TLC**, a nonlinear multig
 
 Before running any experiments, compile the MEX routines:
 
+build\_mex.m
 
+---
 
-Before running any experiments, compile the MEX routines:
+## Run
 
+Run the main script in MATLAB:
 
-
-matlab
-build\_mex
-
-
+main.m
 
 ---
 
